@@ -1,15 +1,15 @@
 # Feature Detection and Description
 
-![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Detection)
-![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Detection)
-![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Feature-Detection)
-![GitHub](https://img.shields.io/github/license/whoisraibolt/Feature-Detection)
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Detection-and-Description)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Detection-and-Description)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Feature-Detection-and-Description)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Feature-Detection-and-Description)
 
 ## Overview
 
 These Jupyters Notebooks show step by step, the process of Feature Detection and Description with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK using Python and OpenCV.
 
-![Feature Detection with FREAK](https://raw.githubusercontent.com/whoisraibolt/Feature-Detection/master/Figures/feature-detection-FREAK.png)
+![Feature Detection with FREAK](https://raw.githubusercontent.com/whoisraibolt/Feature-Detection-and-Description/master/Figures/feature-detection-FREAK.png)
 
 ## Dependencies
 
@@ -36,4 +36,4 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 
 ## License
 
-Code released under the [MIT](https://github.com/whoisraibolt/Feature-Detection/blob/master/LICENSE "MIT") license.
+Code released under the [MIT](https://github.com/whoisraibolt/Feature-Detection-and-Description/blob/master/LICENSE "MIT") license.
