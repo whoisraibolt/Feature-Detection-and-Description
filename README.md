@@ -1,4 +1,4 @@
-# Feature Detection
+# Feature Detection and Description
 
 ![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Detection)
 ![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Detection)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-These Jupyters Notebooks show step by step, the process of Feature Detection with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK using Python and OpenCV.
+These Jupyters Notebooks show step by step, the process of Feature Detection and Description with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK using Python and OpenCV.
 
 ![Feature Detection with FREAK](https://raw.githubusercontent.com/whoisraibolt/Feature-Detection/master/Figures/feature-detection-FREAK.png)
 
